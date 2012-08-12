@@ -5,3 +5,5 @@ clojure.ipr
 nbproject/private/
 maven-classpath
 maven-classpath.properties
+.lein-deps-sum
+docs
